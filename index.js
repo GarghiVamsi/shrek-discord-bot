@@ -25,4 +25,4 @@ bot.on('message', message =>{
 
 })
 
-bot.login('Nzc3OTQzNTQ3NTAzNDQ0MDUw.X7KyYw.NARHFnldcu5o8PRyLE-b_NVMDnk');
+bot.login('yourLoginToken');
